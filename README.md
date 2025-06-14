@@ -1,8 +1,8 @@
-# Workly DB Documentation
+# DB Documentation
 
 ## Overview
 
-This document describes the schema of the recruiting and invoicing database used in the **Workly** system, hosted on Google Cloud SQL (MySQL). It supports:
+This document describes the schema of the recruiting and invoicing database used in the **SOMECOMP** system, hosted on Google Cloud SQL (MySQL). It supports:
 
 - Candidate records and their desired job positions  
 - Company records and associated candidate assignments  
