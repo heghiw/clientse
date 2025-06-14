@@ -23,7 +23,7 @@ The application uses public/private GCS buckets with restricted access. Uploads 
 
 The frontend interface is implemented in **Angular**. The frontend communicates with:
 
-- The MySQL database via a backend API (e.g., Node.js or Python Flask/FastAPI)  
+- The MySQL database via a backend API (Python FastAPI)  
 - Google Cloud Storage for uploading and retrieving files  
 
 When a user uploads a file (CV, invoice, etc.), the frontend:
