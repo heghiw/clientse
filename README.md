@@ -36,7 +36,7 @@ When a user uploads a file (CV, invoice, etc.), the frontend:
 
 ## ER Diagram
 
-![Entity-Relationship Diagram](img/Diagram%20bez%20názvu.drawio(4).png)
+![Entity-Relationship Diagram](https://github.com/heghiw/clientse/blob/main/ER)
 
 ---
 
